@@ -9,5 +9,5 @@ Based on the analysis, I can conclude the following findings:
 
 - Companies with small to medium-sized employees (1 to 500) tend to experience significant work pressure and its impact on mental health, while companies with 500 or more employees have a treatment requirement of only 45-52% over 100%.
 
-Create database, and table inside the SQL workbench, and import data https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry on Kaggle.
+Create database, and table inside the SQL workbench, and import data https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry from Kaggle.
 
